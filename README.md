@@ -1,7 +1,8 @@
-# Background 
+## Background Information
+The stock market encompasses a series of markets and exchanges wherein the buying, selling, and issuance of publicly traded company shares occur. These financial activities are conducted through institutionalized formal exchanges or over-the-counter (OTC) marketplaces, which adhere to established regulations. Within a country or region, there may exist numerous stock trading venues that facilitate transactions involving stocks and various other types of securities.
 
-
-# Problem Statement 
+## Problem Statement 
+Misinformation and obsolete data in making analysis in the money markets across the world has been and continue to be a problem. The required information to make informed decision, at times becomes too technical for some players in the stock market industry despite the industry players craving for information to accurately make predictions. Our client, a an asset management firm, needs proper analysis on prices on Microsoft's Stock to make informed investment decisions and optimize their trading strategies as they carry out their operations as well as forecast for strategic directions and decisions.
 
 # Objectives 
 * ```Develop a predictive model:``` To Build a robust time series model to generate accurate predictions of Microsoft's future stock prices.
@@ -13,9 +14,6 @@
 * ```Provide actionable insights:``` Extract meaningful insights from the analysis of historical stock market data and communicate them effectively to stakeholders.
 
 * ```Enhance decision support tools:``` To create user-friendly interfaces to facilitate easy access to predictions and insights
-
-# Business Understanding 
-
 
 # Data Understanding
 
